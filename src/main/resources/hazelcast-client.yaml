@@ -1,0 +1,5 @@
+hazelcast-client:
+  cluster-name: hazelcast-cluster1
+  network:
+    kubernetes:
+      enabled: false
